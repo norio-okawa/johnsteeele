@@ -31,7 +31,7 @@ const Home = () => {
                 Hi, I am John
               </motion.span>
               <span className="block text-blue-500 z-0 lg:inline">
-                Full Stack Developer
+                Blockchain & Full Stack Developer
               </span>
             </h1>
             <div className="flex md:justify-start ">

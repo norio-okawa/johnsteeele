@@ -36,6 +36,7 @@ const Card = () => {
             <div className="flex flex-col">
               <i className="text-black italic font-bold">{el.title}</i>
               <i className="text-black italic">{el.company}</i>
+              <i className="text-slate-600 italic">{el.location}</i>
               <i className="italic text-slate-400">{el.period}</i>
               <p className="text-black text-sm">{el.desc}</p>
             </div>

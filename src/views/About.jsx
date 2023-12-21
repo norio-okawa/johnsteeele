@@ -27,7 +27,7 @@ const About = () => {
                   : "mt-4 text-xl text-justify text-white"
               }
             >
-              Senior full stack developer with 10 years of experience. Skilled in deploying web solutions using React, Angular, jQuery, Node.js, PHP, C#, and Python. Proficient in API design and development, MVC, and RESTful Service architectural patterns. Expertise in leveraging Scikit-Learn, TensorFlow, and Microsoft Azure Services for building and managing ML models and applications. 
+              Senior Full Stack & Blockchain Developer with 10 years of experience in Ethereum and Smart Contract development for Fintech applications. Skilled in deploying <b>DApps and Web solutions</b> using <b>React, Angular, Vue, Solidity, Vyper, Rust, Go, Java, Node.js, PHP, C#, Ruby, and Python.</b> Proficient in API design and development, MVC, and RESTful Service architectural patterns. Expertise in leveraging Scikit-Learn, TensorFlow, and AWS, Azure Services for building and managing ML models and applications. 
             </p>
           </motion.div>
           <motion.div>
